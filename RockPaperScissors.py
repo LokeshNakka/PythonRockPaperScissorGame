@@ -1,9 +1,6 @@
-import itertools
 import random
-from itertools import starmap
 import os
 import cv2
-
 import HandTrackingModule as htm
 
 
